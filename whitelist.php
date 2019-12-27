@@ -2,9 +2,10 @@
 
 /*
 
-Whilelist util for Ethereum compatible addresses
+Whitelist generator for Ethereum compatible addresses
+Generates a hash table in JSON format in a plain textfile -> whitelist.json
 
-27-12-2019
+Version 0.0.9b - 27-12-2019
 
 */
 
